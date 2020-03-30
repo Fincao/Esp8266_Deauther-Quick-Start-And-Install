@@ -1,4 +1,3 @@
-# Esp8266_Deauther-Quick-Start-And-Install
 <h1 align="center"> ESP8266 Wi-Fi Deauther <img height="26" width="26" src="https://github.com/Fincao/Fake-Captive-Portal-ESP8266/blob/master/img/rss.svg" />.</h1>
 
 <p align="center">
@@ -8,7 +7,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-blue.svg)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
-![fork](https://img.shields.io/badge/8%20single-connection-blueviolet?logo=rss&style=flat)
+![fork](https://img.shields.io/badge/8%20Fork-Project-blueviolet?logo=githubactions&style=flat)
 
 Este é um fork com minha explicação de como usar e instalar em PT-BR.
 
