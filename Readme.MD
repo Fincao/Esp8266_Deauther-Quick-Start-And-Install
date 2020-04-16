@@ -11,12 +11,10 @@
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 </br>
-Este é um fork com minha explicação de como usar e instalar em PT-BR.
 
-
+##### Este é um fork com minha explicação de como usar e instalar em PT-BR.
 
 </br>
-</br>
-abaixo os links originais do projeto em ingles.
+Abaixo os links originais do projeto em ingles.
 [Installing-Deauther-Wiki-FAQ](https://github.com/MrAppAndCrap/Esp8266_Deauther-Quick-Start-And-Install/wiki)</h3> </p>
 [Download Files](https://github.com/MrAppAndCrap/Esp8266_Deauther-Quick-Start-And-Install/archive/master.zip)
