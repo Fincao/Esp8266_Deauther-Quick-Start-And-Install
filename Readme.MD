@@ -17,3 +17,5 @@
 Abaixo os links originais do projeto em ingles.
 [Installing-Deauther-Wiki-FAQ](https://github.com/MrAppAndCrap/Esp8266_Deauther-Quick-Start-And-Install/wiki)</h3> </p>
 [Download Files](https://github.com/MrAppAndCrap/Esp8266_Deauther-Quick-Start-And-Install/archive/master.zip)
+
+#### Este projeto ensina a criar um escaner de redes sem fio e dispositivos WiFi para poder bloquear, tipo um "Jammer".
